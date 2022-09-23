@@ -6,8 +6,9 @@ Images are obtained from microscope camera with same image background and backli
 We provide polygonal labeling for object detection, segmentation and classification tasks.
 Currently, we provide images 72 different species as well as category `other` for image artefacts, background, etc.
 
-
+<!-- 
 Full list of classes:
+
 <summary>
 
 * cladocera
@@ -85,7 +86,8 @@ Full list of classes:
 * synchaeta pachypoda
 
 </summary>
-
+ -->
+ 
 ## Data format description
 
 File `data.json` contains list of objects in images.
