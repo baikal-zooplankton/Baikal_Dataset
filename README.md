@@ -1,6 +1,10 @@
 # Baikal plankton image dataset
 Dataset contains microscope images of various plankton species from lake Baikal.
 
+
+[Medium article about our work and how dataset is obtained.](https://medium.com/yandex/surveying-the-microogranisms-of-lake-baikal-an-open-project-by-maritimeai-and-yandex-cloud-83999a4def36)
+
+
 Images are obtained from microscope camera with same image background and backlight.
 
 We provide polygonal labeling for object detection, segmentation and classification tasks.
