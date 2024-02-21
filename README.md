@@ -109,14 +109,10 @@ File `data.json` contains list of objects in images.
     {"x": 0.3097988874625588, "y": 0.9904435886464127}]}
 ```
 
-File `test_data.json` contains list of objects in images without labels. 
-File is intended as playground for image classification task and validation dataset for object segmentation.
-This image set compiled from ongoing observations.
-We will release ground truth labels for this datsets in the end of winter season.
-
-
-
 ## Changelog
+
+### ver [0.0.3] - 2024-02-21
+Updated main dataset. Test dataset is now part of main dataset.
 
 ### ver [0.0.2] - 2023-02-01
 Test dataset added
